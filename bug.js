@@ -1,0 +1,1 @@
+This error occurs when using the `expo-image-picker` library in an Expo managed workflow project. The issue arises when attempting to access the `uri` property of the selected image object returned by the library.  The `uri` property is sometimes `undefined`, leading to unexpected behavior or crashes in the application.
